@@ -6,6 +6,6 @@
 + After every food taken snake gets bigger by 1 unit.
 
 ### Modules Used
-[1. turtle.py](https://docs.python.org/3/library/turtle.html#turtle.clear)
-[2. random.py](https://docs.python.org/3/library/random.html?highlight=random#module-random)
-[3. time.py](https://docs.python.org/3/library/time.html?highlight=time#module-time)
+1.  [turtle.py](https://docs.python.org/3/library/turtle.html#turtle.clear)
+2.  [random.py](https://docs.python.org/3/library/random.html?highlight=random#module-random)
+3.  [time.py](https://docs.python.org/3/library/time.html?highlight=time#module-time)
